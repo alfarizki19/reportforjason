@@ -1,0 +1,24 @@
+{
+  "category": "Trigger Guard",
+  "description": "Product specifications and 3D model implementation status.",
+  "products": [
+    {
+      "id": "trigger-guard-001",
+      "brand": "B5 Systems",
+      "productTitle": "B5 Systems Reinforced Polymer AR-15 Trigger Guard (PTG-SOLID)",
+      "itemCount": 5,
+      "status": "implemented",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/PTG-SOLID",
+      "images": []
+    },
+    {
+      "id": "trigger-guard-002",
+      "brand": "Bushmaster",
+      "productTitle": "Bushmaster AR-15 Trigger Guard Assembly (F1003044)",
+      "itemCount": 1,
+      "status": "implemented",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/F1003044",
+      "images": []
+    }
+  ]
+}

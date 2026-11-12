@@ -1,0 +1,139 @@
+[
+  {
+    "number": 1,
+    "title": "R&D",
+    "description": "Research, technical studies, and feasibility validation.",
+    "status": "Completed",
+    "icon": "science",
+    "tasks": [
+      "Research AR-15 part compatibility.",
+      "Research and define AR-15 part categories.",
+      "Gather and review technical references for parts and components."
+    ]
+  },
+  {
+    "number": 2,
+    "title": "Prototyping",
+    "description": "Proof of concept, technology integration, and core workflow validation.",
+    "status": "Finished",
+    "icon": "developer_board",
+    "tasks": [
+      "Integrate Sketchfab with Cloudflare R2 to support a larger number of configurable parts and overcome asset-loading limitations.",
+      "Test basic 3D interactions, including showing and hiding parts, repositioning components, and swapping textures.",
+      "Develop a preliminary database system using Supabase. The database provider may be changed later.",
+      "Test basic Shopify integration, including product stock retrieval, price retrieval, and payment flow testing."
+    ]
+  },
+  {
+    "number": 3,
+    "title": "Initial Data Sorting",
+    "description": "Reviewing and selecting eligible products for the configurator.",
+    "status": "Finished",
+    "icon": "filter_list",
+    "tasks": [
+      "Review the available product and parts inventory.",
+      "Identify and sort parts that are suitable for inclusion in the configurator.",
+      "Exclude parts that are not relevant to the current configurator scope."
+    ]
+  },
+  {
+    "number": 4,
+    "title": "Part Categorization",
+    "description": "Organizing selected parts into structured product categories.",
+    "status": "Finished",
+    "icon": "category",
+    "tasks": [
+      "Group the previously sorted parts into appropriate categories.",
+      "Organize component groups such as barrels, handguards, and other relevant categories.",
+      "Establish an initial categorization structure for the configurator."
+    ]
+  },
+  {
+    "number": 5,
+    "title": "Configurator Creation (Front-End Only)",
+    "description": "Developing the interactive configurator, 3D assets, and user interface.",
+    "status": "Ongoing",
+    "icon": "view_in_ar",
+    "tasks": [
+      "Validate the previously sorted parts inventory.",
+      "Review and validate the part categorization structure.",
+      "Validate the part compatibility logic.",
+      "Create and optimize 3D models for web-based rendering.",
+      "Design and develop the configurator UX/UI.",
+      "Upload texture assets to cloud storage.",
+      "Integrate cloud-hosted textures into the configurator.",
+      "Additional tasks are currently under consideration."
+    ]
+  },
+  {
+    "number": 6,
+    "title": "Polishing",
+    "description": "Refining the configurator interface, 3D models, and visual quality.",
+    "status": "Not Started",
+    "icon": "auto_fix_high",
+    "tasks": [
+      "Develop a database structure for storing material properties, including metalness and roughness values.",
+      "Integrate the stored material properties into the 3D visualization workflow to improve metallic material appearance.",
+      "Refine and polish the configurator UX/UI.",
+      "Improve and polish 3D model presentation in Sketchfab."
+    ]
+  },
+  {
+    "number": 7,
+    "title": "Shopify Integration",
+    "description": "Developing management tools and connecting the configurator to a Shopify test store.",
+    "status": "Not Started",
+    "icon": "shopping_bag",
+    "tasks": [
+      "Develop a dedicated configurator management dashboard.",
+      "Implement controls to enable or disable individual parts within the configurator.",
+      "Add basic website traffic and visitor statistics to the management dashboard.",
+      "Prepare a Shopify test store for integration testing.",
+      "Integrate the configurator with Shopify using the appropriate public Storefront API access mechanism.",
+      "Build upon the stock retrieval, pricing, and payment flow prototypes validated during Milestone 02.",
+      "Additional dashboard features are still under consideration."
+    ]
+  },
+  {
+    "number": 8,
+    "title": "Configurator Testing",
+    "description": "Testing the configurator's features and overall functionality before production deployment.",
+    "status": "Not Started",
+    "icon": "fact_check",
+    "tasks": [
+      "Test the configurator's core functionality.",
+      "Validate part selection and compatibility behavior.",
+      "Test 3D model loading and interaction.",
+      "Check interface usability and responsiveness.",
+      "Identify and resolve issues before live-store integration."
+    ]
+  },
+  {
+    "number": 9,
+    "title": "Live Store Integration",
+    "description": "Migrating the configurator from the test environment to the live Shopify store.",
+    "status": "Not Started",
+    "icon": "storefront",
+    "tasks": [
+      "Connect the configurator to the actual Shopify store.",
+      "Replace test-store configuration with production-store configuration.",
+      "Verify product, variant, stock, and pricing data against the live store.",
+      "Validate the configurator's connection to the live shopping workflow."
+    ]
+  },
+  {
+    "number": 10,
+    "title": "Final Integration Testing",
+    "description": "Performing final end-to-end testing before the official launch.",
+    "status": "Not Started",
+    "icon": "verified",
+    "tasks": [
+      "Perform final end-to-end configurator and Shopify integration testing.",
+      "Verify product selection and cart or checkout workflows.",
+      "Validate live product data synchronization.",
+      "Perform final usability and functional checks.",
+      "Resolve critical integration issues before launch.",
+      "Confirm launch readiness."
+    ]
+  }
+]

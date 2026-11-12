@@ -1,0 +1,75 @@
+{
+  "milestone-01": {
+    "title": "Technical References",
+    "subtitle": "Milestone 01 - Research & Development",
+    "images": [
+      {
+        "title": "Barrel Systems",
+        "src": "assets/img/milestone-01/technicalreference-barelsystems-0.png"
+      },
+      {
+        "title": "Barel-midlenght",
+        "src": "assets/img/milestone-01/technicalreference-barelsystems-1.png"
+      },
+      {
+        "title": "Barrel Nut Size Reference",
+        "src": "assets/img/milestone-01/technicalreference-barelnut-0.webp"
+      },
+      {
+        "title": "Picatinny Rail Size",
+        "src": "assets/img/milestone-01/technicalreference-picatinyrail-0.webp"
+      }
+    ],
+    "links": [
+      {
+        "title": "Midlenght System",
+        "url": "https://www.thearmorylife.com/what-is-a-mid-length-gas-system-splitting-the-difference/"
+      }
+    ],
+    "videos": [
+      {
+        "title": "Even More AR Builder Mistakes",
+        "url": "https://www.youtube.com/watch?v=WNxbu8wwyUk&t=7s"
+      },
+      {
+        "title": "Takedown Pin Set Real Product Packaging and Installation",
+        "url": "https://www.youtube.com/watch?v=d_X4UUrleIw"
+      },
+      {
+        "title": "Gas Tube and Gas Block Assembly (Real-World)",
+        "url": "https://www.youtube.com/watch?v=8uviLtMFGvY"
+      },
+      {
+        "title": "Gas Tube Real World Reference",
+        "url": "https://www.youtube.com/watch?v=UALew4CVW38"
+      },
+      {
+        "title": "Handguard Installation",
+        "url": "https://www.youtube.com/watch?v=mUSl1Efys-k"
+      },
+      {
+        "title": "Real Trigger Packaging and Trigger Installation Tutorial",
+        "url": "https://www.youtube.com/watch?v=HWugWMghbtY&t=199s"
+      }
+    ]
+  },
+  "milestone-02": {
+    "title": "Prototype Demonstrations",
+    "subtitle": "Milestone 02 - Prototyping",
+    "images": [],
+    "links": [
+      {
+        "title": "Base System - Shopify Data Loading",
+        "url": "page/work-in-progress.html"
+      },
+      {
+        "title": "Sketchfab - Hide and Show Parts",
+        "url": "page/work-in-progress.html"
+      },
+      {
+        "title": "Sketchfab - Cloudflare R2 Texture Loading",
+        "url": "page/work-in-progress.html"
+      }
+    ]
+  }
+}

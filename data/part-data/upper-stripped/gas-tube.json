@@ -1,0 +1,136 @@
+{
+  "category": "Gas Tube",
+  "description": "Product specifications and 3D model implementation status.",
+  "products": [
+    {
+      "id": "GST001001",
+      "brand": "Aero Precision",
+      "productTitle": "Aero Precision Melonite Gas Tube, Carbine Length (APRH100281C)",
+      "itemCount": 1,
+      "gasTubeLength": "Carbine",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh100281c",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST001002",
+      "brand": "Aero Precision",
+      "productTitle": "Aero Precision Stainless Steel Gas Tube, Carbine Length (APRH100017C)",
+      "itemCount": 1,
+      "gasTubeLength": "Carbine",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh100017c",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST001003",
+      "brand": "Aero Precision",
+      "productTitle": "Aero Precision Melonite Gas Tube, Mid Length (APRH100282C)",
+      "itemCount": 1,
+      "gasTubeLength": "Mid-Length",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh100282c",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST001004",
+      "brand": "Aero Precision",
+      "productTitle": "Aero Precision Stainless Steel Gas Tube, Mid Length (APRH100144C)",
+      "itemCount": 1,
+      "gasTubeLength": "Mid-Length",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh100144c",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST001005",
+      "brand": "Aero Precision",
+      "productTitle": "Aero Precision Melonite Gas Tube, Rifle Length (APRH100283C)",
+      "itemCount": 1,
+      "gasTubeLength": "Rifle",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh100283c",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST001006",
+      "brand": "Aero Precision",
+      "productTitle": "Aero Precision Stainless Steel Gas Tube, Rifle Length (APRH100199C)",
+      "itemCount": 1,
+      "gasTubeLength": "Rifle",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh100199c",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST003002",
+      "brand": "Ballistic Advantage",
+      "productTitle": "Ballistic Advantage Stainless Steel Gas Tube, Carbine Length (BAPA100066)",
+      "itemCount": 1,
+      "gasTubeLength": "Carbine",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/bapa100066",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST003003",
+      "brand": "Ballistic Advantage",
+      "productTitle": "Ballistic Advantage Stainless Steel Gas Tube, Mid Length (BAPA100067)",
+      "itemCount": 1,
+      "gasTubeLength": "Mid-Length",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/bapa100067",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST005002",
+      "brand": "Bushmaster",
+      "productTitle": "Bushmaster 5.56/.223 Carbine Length Gas Tube (F1000374)",
+      "itemCount": 1,
+      "gasTubeLength": "Carbine",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/F1000374",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST005003",
+      "brand": "Bushmaster",
+      "productTitle": "Bushmaster 5.56/.223 Mid Length Gas Tube (F1000377)",
+      "itemCount": 1,
+      "gasTubeLength": "Mid-Length",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/F1000377",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST005004",
+      "brand": "Bushmaster",
+      "productTitle": "Bushmaster Rifle Length Gas Tube (F1003020)",
+      "itemCount": 1,
+      "gasTubeLength": "Rifle",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/F1003020",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST005005",
+      "brand": "Bushmaster",
+      "productTitle": "Bushmaster DCM Gas Tube (F1003021)",
+      "itemCount": 1,
+      "gasTubeLength": "Rifle",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/F1003021",
+      "status": "implemented",
+      "images": []
+    },
+    {
+      "id": "GST020001",
+      "brand": "Colt",
+      "productTitle": "Colt AR-15 Carbine Length Gas Tube (SP62366)",
+      "itemCount": 1,
+      "gasTubeLength": "Carbine",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/SP62366",
+      "status": "implemented",
+      "images": []
+    }
+  ]
+}

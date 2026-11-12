@@ -1,0 +1,67 @@
+{
+  "defaultSection": "partsUpperStripped",
+  "placeholderUrl": "page/work-in-progress.html",
+  "sections": [
+    {
+      "id": "partsUpperComplete",
+      "navLabel": "Upper Complete",
+      "title": "Upper Complete",
+      "content": "placeholder"
+    },
+    {
+      "id": "partsUpperStripped",
+      "navLabel": "Upper Stripped",
+      "title": "Upper Stripped",
+      "content": "categories",
+      "categories": [
+        { "id": "barrel", "name": "Barrel", "status": "available", "url": "page/parts/barrel.html" },
+        { "id": "bolt-carrier-group", "name": "Bolt Carrier Group", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "charging-handle", "name": "Charging Handle", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "ejection-port-cover", "name": "Ejection Port Cover", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "forward-assist", "name": "Forward Assist", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "gas-block", "name": "Gas Block", "status": "available", "url": "page/parts/gas-block.html" },
+        { "id": "gas-tube", "name": "Gas Tube", "status": "available", "url": "page/parts/gas-tube.html" },
+        { "id": "handguard", "name": "Handguard", "status": "available", "url": "page/parts/handguard.html" },
+        { "id": "muzzle-device", "name": "Muzzle Device", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "upper-receiver", "name": "Upper Receiver", "status": "in-progress", "url": "page/work-in-progress.html" }
+      ]
+    },
+    {
+      "id": "partsLowerComplete",
+      "navLabel": "Lower Complete",
+      "title": "Lower Complete",
+      "content": "placeholder"
+    },
+    {
+      "id": "partsLowerStripped",
+      "navLabel": "Lower Stripped",
+      "title": "Lower Stripped",
+      "content": "categories",
+      "categories": [
+        { "id": "bolt-catch", "name": "Bolt Catch", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "buffer-systems", "name": "Buffer Systems", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "lower-receiver", "name": "Lower Receiver", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "magazine", "name": "Magazine", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "magazine-release", "name": "Magazine Release", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "pistol-grip", "name": "Pistol Grip", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "safety-selector", "name": "Safety Selector", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "stock", "name": "Stock", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "takedown-pin-set", "name": "Takedown Pin Set", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "trigger", "name": "Trigger", "status": "in-progress", "url": "page/work-in-progress.html" },
+        { "id": "trigger-guard", "name": "Trigger Guard", "status": "available", "url": "page/parts/trigger-guard.html" }
+      ]
+    },
+    {
+      "id": "partsGear",
+      "navLabel": "Gear",
+      "title": "Gear",
+      "content": "placeholder"
+    },
+    {
+      "id": "partsAccessories",
+      "navLabel": "Accessories",
+      "title": "Accessories",
+      "content": "placeholder"
+    }
+  ]
+}

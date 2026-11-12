@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gas Block - Client Progress Report</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../../styles/main.css">
+</head>
+<body class="standalone-body">
+  <div class="parts-detail-page">
+    <header class="parts-detail-header">
+      <a class="parts-detail-header__back" href="../../index.html">
+        <span class="material-symbols-outlined" aria-hidden="true">arrow_back</span>
+        Back to Report
+      </a>
+      <h1 class="parts-detail-header__title" id="gas-block-page-title">Gas Block</h1>
+      <p class="parts-detail-header__subtitle" id="gas-block-page-subtitle">
+        Product specifications and 3D model implementation status.
+      </p>
+    </header>
+
+    <section class="parts-table-container" aria-labelledby="gas-block-page-title">
+      <div class="parts-table-scroll" id="gas-block-table-scroll">
+        <table class="parts-table parts-table--five-cols">
+          <thead>
+            <tr>
+              <th class="parts-table__col-no" scope="col">No.</th>
+              <th class="parts-table__col-title" scope="col">Product Title</th>
+              <th class="parts-table__col-items" scope="col">Items</th>
+              <th scope="col">Gas Block Size</th>
+              <th scope="col">Status</th>
+              <th scope="col">Action</th>
+            </tr>
+          </thead>
+          <tbody id="gas-block-table-body" aria-live="polite"></tbody>
+        </table>
+      </div>
+      <p class="parts-table-container__error" id="gas-block-table-error" hidden>Unable to load gas block products.</p>
+    </section>
+
+    <footer class="parts-detail-footer">
+      <p class="parts-detail-footer__count" id="gas-block-product-count">0 items from 0 products</p>
+
+      <div class="parts-detail-footer__legend">
+        <h2 class="parts-detail-footer__legend-title">3D Model Status Legend</h2>
+        <ul class="parts-status-legend" role="list">
+          <li class="parts-status-legend__item">
+            <span class="model-status model-status--implemented">
+              <span class="model-status__dot" aria-hidden="true"></span>
+              <span class="model-status__label">Implemented</span>
+            </span>
+            <span class="parts-status-legend__desc">3D model completed and integrated into the configurator.</span>
+          </li>
+          <li class="parts-status-legend__item">
+            <span class="model-status model-status--finish">
+              <span class="model-status__dot" aria-hidden="true"></span>
+              <span class="model-status__label">Finish</span>
+            </span>
+            <span class="parts-status-legend__desc">3D model completed but not yet integrated.</span>
+          </li>
+          <li class="parts-status-legend__item">
+            <span class="model-status model-status--in-progress">
+              <span class="model-status__dot" aria-hidden="true"></span>
+              <span class="model-status__label">In Progress</span>
+            </span>
+            <span class="parts-status-legend__desc">3D model currently being created, reviewed, or optimized.</span>
+          </li>
+        </ul>
+      </div>
+
+      <p class="parts-detail-footer__readonly">
+        <span class="material-symbols-outlined parts-detail-footer__lock" aria-hidden="true">lock</span>
+        Read Only
+      </p>
+    </footer>
+  </div>
+
+  <dialog class="product-dialog" id="gas-block-product-dialog" aria-labelledby="gas-block-dialog-title">
+    <div class="product-dialog__panel">
+      <header class="product-dialog__header">
+        <div class="product-dialog__titles">
+          <h2 class="product-dialog__title" id="gas-block-dialog-title">Product Details</h2>
+          <p class="product-dialog__subtitle" id="gas-block-dialog-subtitle"></p>
+        </div>
+        <button type="button" class="product-dialog__close" id="gas-block-dialog-close" aria-label="Close dialog">
+          <span class="material-symbols-outlined" aria-hidden="true">close</span>
+        </button>
+      </header>
+      <div class="product-dialog__body" id="gas-block-dialog-body"></div>
+    </div>
+  </dialog>
+
+  <script src="../../js/gasBlockPage.js" defer></script>
+</body>
+</html>

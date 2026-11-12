@@ -1,0 +1,181 @@
+{
+  "category": "Handguard",
+  "description": "Product specifications and 3D model implementation status.",
+  "products": [
+    {
+      "id": "handguard-001",
+      "brand": "Midwest Industries",
+      "productTitle": "Midwest Industries AR-15 Combat Rail Handguard, 17.5\" Black (MI-CRM17XR)",
+      "itemCount": 1,
+      "handguardLength": "17.5 in",
+      "status": "finish",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/mi-crm17xr",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-002",
+      "brand": "Midwest Industries",
+      "productTitle": "Midwest Industries AR-15 Combat Rail M-Lok Handguard, 11.5\" Black (MI-CRM11-5)",
+      "itemCount": 1,
+      "handguardLength": "11.5 in",
+      "status": "finish",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/mi-crm11-5",
+          "type": "client-store"
+        },
+        {
+          "title": "Real Product Unboxing",
+          "url": "https://www.youtube.com/watch?v=FXZxnkOEq30",
+          "type": "video"
+        }
+      ]
+    },
+    {
+      "id": "handguard-003",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Aluminum Modular MLOK Handguard, 10\" (BRO-MLOK-MOD-10)",
+      "itemCount": 1,
+      "handguardLength": "10 in",
+      "status": "finish",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-MLOK-MOD-10",
+          "type": "client-store"
+        },
+        {
+          "title": "Full Rifle Video Review",
+          "url": "https://www.youtube.com/watch?v=ibM2j-8el0s",
+          "type": "video"
+        },
+        {
+          "title": "Full Rifle Store Link",
+          "url": "https://blackrainordnance.com/product/bro-spec-15-p/",
+          "type": "manufacturer"
+        }
+      ]
+    },
+    {
+      "id": "handguard-004",
+      "brand": "Wilson Combat",
+      "productTitle": "Wilson Combat AR-15 M-LOK Handguard, 12.6\" (WC-TR-MLOK-12)",
+      "itemCount": 1,
+      "handguardLength": "12.6 in",
+      "status": "finish",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/wc-tr-mlok-12",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-005",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Aluminum Modular MLOK Handguard, 12\" (BRO-MLOK-MOD-12)",
+      "itemCount": 1,
+      "handguardLength": "12 in",
+      "status": "in-progress",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-MLOK-MOD-12",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-006",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Aluminum Modular MLOK Handguard, 15\" (BRO-MLOK-MOD-15)",
+      "itemCount": 1,
+      "handguardLength": "15 in",
+      "status": "in-progress",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-MLOK-MOD-15",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-007",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Slim Aluminum MLOK Handguard, 10\" (BRO-SLM-10)",
+      "itemCount": 1,
+      "handguardLength": "10 in",
+      "status": "in-progress",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-SLM-10",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-008",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Slim Aluminum MLOK Handguard, 12\" (BRO-SLM-12)",
+      "itemCount": 1,
+      "handguardLength": "12 in",
+      "status": "in-progress",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-SLM-12",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-009",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Slim Aluminum MLOK Handguard, 15\" (BRO-SLM-15)",
+      "itemCount": 1,
+      "handguardLength": "15 in",
+      "status": "in-progress",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-SLM-15",
+          "type": "client-store"
+        }
+      ]
+    },
+    {
+      "id": "handguard-010",
+      "brand": "Black Rain Ordnance",
+      "productTitle": "Black Rain Ordnance Slim Aluminum MLOK Handguard, 17.76\" (BRO-SLM-1776)",
+      "itemCount": 1,
+      "handguardLength": "17.76 in",
+      "status": "in-progress",
+      "images": [],
+      "referenceLinks": [
+        {
+          "title": "Client Store Link",
+          "url": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-SLM-1776",
+          "type": "client-store"
+        }
+      ]
+    }
+  ]
+}

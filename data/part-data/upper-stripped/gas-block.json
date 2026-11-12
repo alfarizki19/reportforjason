@@ -1,0 +1,123 @@
+{
+  "category": "Gas Block",
+  "description": "Product specifications and 3D model implementation status.",
+  "products": [
+    {
+      "id": "gas-block-001",
+      "productTitle": "Aero Precision Low Profile Adjustable Gas Block, .625 (APRH101613C)",
+      "gasBlockSize": ".625\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh101613c",
+      "status": "finish",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-002",
+      "productTitle": "CMMG Gas Block Assembly, Low Profile .625\" ID (55DA3AC)",
+      "gasBlockSize": ".625\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/55DA3AC",
+      "status": "finish",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-003",
+      "productTitle": "Faxon Firearms .625\" Low Profile Gas Block (GB-LP-625-3)",
+      "gasBlockSize": ".625\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/gb-lp-625-3",
+      "status": "finish",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-004",
+      "productTitle": "Aero Precision Low Profile Adjustable Gas Block, .750 (APRH101614C)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh101614c",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-005",
+      "productTitle": "Aero Precision Low Profile Adjustable Gas Block, .750 (APRH101676C)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh101676c",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-006",
+      "productTitle": "Aero Precision Low Profile Adjustable Gas Block, .750, DLC Coating (APRH102187C)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/aprh102187c",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-007",
+      "productTitle": "Black Rain Ordnance Low Profile Gas Block (Adjustable), .750 (BRO-LP-750A)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-LP-750A",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-008",
+      "productTitle": "Black Rain Ordnance Low Profile Gas Block (Non-Adjustable), .750 (BRO-LP-750)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/BRO-LP-750",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-009",
+      "productTitle": "CMMG Gas Block Assembly, Low Profile .750\" ID (55DA38D)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/55DA38D",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-010",
+      "productTitle": "DPMS .750 Diameter Micro Gas Block (60699)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/60699",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-011",
+      "productTitle": "ERGO Low Profile Adjustable Gas Block, .750 (4822)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/4822",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-012",
+      "productTitle": "Faxon Firearms .750 AR-10 Height Gas Block (GB-10-750-3)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/gb-10-750-3",
+      "status": "finish",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "gas-block-013",
+      "productTitle": "Faxon Firearms .750\" Low Profile Gas Block (GB-LP-750-3)",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/gb-lp-750-3",
+      "status": "finish",
+      "images": [],
+      "itemCount": 1
+    }
+  ]
+}

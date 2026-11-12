@@ -1,0 +1,78 @@
+{
+  "category": "Barrel",
+  "description": "Product specifications and 3D model implementation status.",
+  "products": [
+    {
+      "id": "barrel-001",
+      "productTitle": "Anderson AR-15 16\" 5.56 Barrel, Carbine Gas, 1:8, M4 Contour",
+      "caliber": "5.56 NATO",
+      "gasTube": "Carbine",
+      "barrelLength": "16.0 in",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/b2-k004-an08",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "barrel-002",
+      "productTitle": "Ballistic Advantage AR-15 Modern Series 13.7\" 5.56 NATO Barrel, Government Contour, Mid Length",
+      "caliber": "5.56 NATO",
+      "gasTube": "Mid-Length",
+      "barrelLength": "13.7 in",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/babl556033m",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "barrel-003",
+      "productTitle": "Ballistic Advantage Modern Series 10.5\" 5.56 NATO Barrel, Government Profile, Carbine Length",
+      "caliber": "5.56 NATO",
+      "gasTube": "Carbine",
+      "barrelLength": "10.5 in",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/babl556005m",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "barrel-004",
+      "productTitle": "CMMG 5.56mm MR 12.5\" Barrel Sub-Assembly, Nitride",
+      "caliber": "5.56 NATO",
+      "gasTube": "Carbine",
+      "barrelLength": "12.5 in",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/55DDF0A",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "barrel-005",
+      "productTitle": "CMMG 5.56mm MT 18\" Barrel Sub-Assembly, 416 S/S",
+      "caliber": "5.56 NATO",
+      "gasTube": "Rifle",
+      "barrelLength": "18.0 in",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/55D660A",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    },
+    {
+      "id": "barrel-006",
+      "productTitle": "Guntec AR-15 Barrel, 16\" 5.56mm, M4 Contour Carbine Length 1/2-28 Thread",
+      "caliber": "5.56 NATO",
+      "gasTube": "Carbine",
+      "barrelLength": "16.0 in",
+      "gasBlockSize": ".750\"",
+      "referenceUrl": "https://www.midwestgunworks.com/page/mgwi/prod/bar-16",
+      "status": "implemented",
+      "images": [],
+      "itemCount": 1
+    }
+  ]
+}
